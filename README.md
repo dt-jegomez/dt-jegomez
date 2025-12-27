@@ -62,6 +62,7 @@ Experienced in architectural decision-making, API design, database optimization,
 
 ## Certifications
 
+- Scrum Fundamentals Certified (SFC)
 - Scrum for Ops and DevOps – Fundamentals Certified (SODFC)
 
 ---
