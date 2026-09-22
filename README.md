@@ -125,15 +125,6 @@ invoicing and reporting automation.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dt-jegomez&show_icons=true&theme=default&hide_title=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dt-jegomez&layout=compact&hide=html,css" />
-</p>
-
----
-
 ### 🎓 Education & Certifications
 
 - **B.S. in Systems Engineering** — Universidad Nacional Abierta y a Distancia (UNAD), Colombia (2019)
