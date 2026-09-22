@@ -36,7 +36,7 @@ publicly linkable.)*
 - Frontend & mobile product engineering (React/Next.js, Vue, Flutter)
 - AI-assisted UI/UX design workflows (Figma, Pencil)
 - Data analysis & analytics engineering (AWS Athena, Databricks, Pandas)
-- LLM agent orchestration & AI-assisted system design
+- LLM agent orchestration, RAG pipelines & vector search
 - Domain-Driven Design (DDD)
 - API-first, cloud-native systems
 - Technical leadership & mentoring
@@ -60,6 +60,11 @@ invoicing and reporting automation.
 **Data analysis & analytics** — querying and transforming large datasets with AWS Athena over
 Parquet, building pipelines in Databricks, and doing exploratory/statistical analysis with
 Pandas and Jupyter notebooks to support reporting and business decisions.
+
+**LLM agents & RAG** — designing multi-agent pipelines on AWS Bedrock/Claude (a chat orchestrator
+that streams responses and hands off to a spec-generation agent, which drives automated code
+generation end to end), plus retrieval-augmented generation and vector-search patterns for
+grounding agent responses in domain data.
 
 **Frontend & mobile at scale** — customer-facing storefronts, admin portals and checkout flows
 in React/Next.js and Vue, plus Flutter mobile apps, across the fintech, healthcare and mobile
@@ -98,6 +103,17 @@ static handoff mockups.
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Pencil%20(pen.dev)-8A2BE2?style=flat" />
 <img src="https://img.shields.io/badge/Design%20to%20Code-black?style=flat" />
+</p>
+
+**LLM / Agents / RAG**
+<p>
+<img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20(Anthropic)-D97757?style=flat&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-black?style=flat" />
+<img src="https://img.shields.io/badge/Vector%20DBs%20(pgvector%2FPinecone)-black?style=flat" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-black?style=flat" />
 </p>
 
 **Data Analysis & Engineering**
