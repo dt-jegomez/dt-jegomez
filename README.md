@@ -1,10 +1,15 @@
-<h1 align="center">Hi, I'm Juan Eduardo Gómez 👋</h1>
-<h3 align="center">Technology Leader | Software Architect (AWS) | Engineering, Product & AI Strategy</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:8B5CF6,100:F59E0B&height=200&section=header&text=Juan%20Eduardo%20G%C3%B3mez&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=Technology%20Leader%20%7C%20Software%20Architect%20(AWS)%20%7C%20AI%20%26%20FinTech&descAlignY=54&descSize=18&descColor=F8FAFC&animation=fadeIn" width="100%" alt="Juan Eduardo Gómez" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tl-jegomez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:go.juangomez23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Bucaramanga%2C%20Colombia-informational?style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Technology+Leader+%7C+FinTech+%26+HealthTech;AWS+Software+Architect+%E2%80%94+CDK%2C+Serverless%2C+Multi-Account;LLM+Agents+%2B+RAG+%2B+Vector+Search;10%2B+years+leading+engineering+teams" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tl-jegomez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:go.juangomez23@gmail.com"><img src="https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=0F172A" /></a>
+  <img src="https://img.shields.io/badge/Bucaramanga%2C%20Colombia-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -98,122 +103,122 @@ static handoff mockups.
 
 **Languages & Runtime**
 <p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
 **Frontend & Mobile**
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 **Software Architecture (AWS)**
 <p>
-<img src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
-<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white" />
-<img src="https://img.shields.io/badge/Fargate%2FECS-FF9900?style=flat&logo=amazonecs&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat&logo=amazoncloudfront&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/Cognito-DD344C?style=flat&logo=amazoncognito&logoColor=white" />
-<img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi--Account%20Architecture-232F3E?style=flat" />
+<img src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" />
+<img src="https://img.shields.io/badge/Fargate%2FECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white" />
+<img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Account%20Architecture-8B5CF6?style=flat-square" />
 </p>
 
 **AI-Assisted UI/UX Design**
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Pencil%20(pen.dev)-8A2BE2?style=flat" />
-<img src="https://img.shields.io/badge/Design%20to%20Code-black?style=flat" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Pencil%20(pen.dev)-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Design%20to%20Code-8B5CF6?style=flat-square" />
 </p>
 
 **LLM / Agents / RAG**
 <p>
-<img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude%20(Anthropic)-D97757?style=flat&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-black?style=flat" />
-<img src="https://img.shields.io/badge/Vector%20DBs%20(pgvector%2FPinecone)-black?style=flat" />
-<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-black?style=flat" />
+<img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20(Anthropic)-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector%20DBs%20(pgvector%2FPinecone)-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-8B5CF6?style=flat-square" />
 </p>
 
 **Data Analysis & Engineering**
 <p>
-<img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat-square" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
 **Backend & Frameworks**
 <p>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
 
 **Data & Cloud**
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
 **APIs & Architecture**
 <p>
-<img src="https://img.shields.io/badge/REST%20APIs-blue?style=flat" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/REST%20APIs-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 </p>
 
 **CI/CD & Tools**
 <p>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 **Leadership & People Management**
 <p>
-<img src="https://img.shields.io/badge/Team%20Leadership-2E7D32?style=flat" />
-<img src="https://img.shields.io/badge/Hiring%20%26%20Recruitment-2E7D32?style=flat" />
-<img src="https://img.shields.io/badge/Performance%20Reviews-2E7D32?style=flat" />
-<img src="https://img.shields.io/badge/Mentoring-2E7D32?style=flat" />
-<img src="https://img.shields.io/badge/Technology%20Roadmaps-2E7D32?style=flat" />
-<img src="https://img.shields.io/badge/Stakeholder%20Management-2E7D32?style=flat" />
+<img src="https://img.shields.io/badge/Team%20Leadership-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Hiring%20%26%20Recruitment-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Performance%20Reviews-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Mentoring-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Technology%20Roadmaps-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Stakeholder%20Management-F59E0B?style=flat-square" />
 </p>
 
 **Project Management**
 <p>
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white" />
-<img src="https://img.shields.io/badge/Kanban-0052CC?style=flat" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white" />
 </p>
 
 ---
@@ -231,4 +236,11 @@ Spanish (Native) · English (Professional Working Proficiency)
 
 ---
 
-<p align="center">⭐ Open to technology leadership and engineering management roles in AI-driven FinTech/HealthTech organizations.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐_Open_to-Technology%20Leadership%20%26%20Engineering%20Management-F59E0B?style=for-the-badge&labelColor=0F172A" />
+</p>
+<p align="center">AI-driven FinTech &amp; HealthTech organizations</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:8B5CF6,100:0F172A&height=100&section=footer" width="100%" />
+</p>
