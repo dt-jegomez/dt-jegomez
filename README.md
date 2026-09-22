@@ -54,6 +54,7 @@ publicly linkable.)*
 - People leadership: hiring, performance management & mentoring engineering teams
 - Software architecture with an AWS-first approach (CDK, multi-account, serverless & containers)
 - Networking as part of the architecture: VPCs, DNS, load balancing, CDN, network security
+- Application monitoring & observability: CloudWatch logs/alarms, incident response
 - Backend architecture & scalability
 - Frontend & mobile product engineering (React/Next.js, Vue, Flutter)
 - AI-assisted UI/UX design workflows (Figma, Pencil)
@@ -78,6 +79,11 @@ someone else's layer: VPCs, subnets and security groups behind every CDK stack, 
 in on-premise network administration (Windows Server, Active Directory, Linux) across 108+
 physical locations that still informs how I reason about latency, failure domains and security
 boundaries in cloud architectures.
+
+**Application monitoring & observability** — instrumenting CloudWatch logs, metrics and alarms
+across Lambda/ECS/Fargate services so production issues surface before a customer reports them,
+plus structured logging and dashboards to support healthcare and fintech workloads where an
+incident has real operational and compliance impact.
 
 **Fintech / digital wallet & top-up platform** — Tech Lead across a multi-service PHP/TypeScript
 stack: wallet + retail top-up APIs, a customer-facing storefront, an internal admin portal, and a
@@ -148,6 +154,14 @@ static handoff mockups.
 <img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white" />
 <img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" />
 <img src="https://img.shields.io/badge/Multi--Account%20Architecture-8B5CF6?style=flat-square" />
+</p>
+
+**Monitoring & Observability**
+<p>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+<img src="https://img.shields.io/badge/Logs%20%26%20Alarms-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Structured%20Logging-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Incident%20Response-8B5CF6?style=flat-square" />
 </p>
 
 **Networking**
