@@ -53,6 +53,7 @@ publicly linkable.)*
 - QA & testing as a full-stack responsibility: unit/integration/e2e coverage, CI test gates
 - People leadership: hiring, performance management & mentoring engineering teams
 - Software architecture with an AWS-first approach (CDK, multi-account, serverless & containers)
+- Networking as part of the architecture: VPCs, DNS, load balancing, CDN, network security
 - Backend architecture & scalability
 - Frontend & mobile product engineering (React/Next.js, Vue, Flutter)
 - AI-assisted UI/UX design workflows (Figma, Pencil)
@@ -70,6 +71,13 @@ publicly linkable.)*
 Lambda services, Fargate/ECS for longer-running workloads, CloudFront + S3 for static hosting,
 Cognito for auth, and Route53 for DNS — with per-customer multi-account provisioning and
 infrastructure-as-code (CDK/Terraform) driving every environment instead of manual console setup.
+
+**Networking — full-stack & architect view** — network design is part of the architecture, not
+someone else's layer: VPCs, subnets and security groups behind every CDK stack, DNS zones
+(Route53) and CDN distribution (CloudFront) for multi-tenant domains, plus an earlier background
+in on-premise network administration (Windows Server, Active Directory, Linux) across 108+
+physical locations that still informs how I reason about latency, failure domains and security
+boundaries in cloud architectures.
 
 **Fintech / digital wallet & top-up platform** — Tech Lead across a multi-service PHP/TypeScript
 stack: wallet + retail top-up APIs, a customer-facing storefront, an internal admin portal, and a
@@ -140,6 +148,18 @@ static handoff mockups.
 <img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white" />
 <img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" />
 <img src="https://img.shields.io/badge/Multi--Account%20Architecture-8B5CF6?style=flat-square" />
+</p>
+
+**Networking**
+<p>
+<img src="https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/DNS%20(Route53)-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" />
+<img src="https://img.shields.io/badge/Load%20Balancing-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/CDN-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" />
+<img src="https://img.shields.io/badge/Security%20Groups-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 **AI-Assisted UI/UX Design**
