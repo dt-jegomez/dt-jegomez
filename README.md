@@ -35,6 +35,7 @@ publicly linkable.)*
 - Backend architecture & scalability
 - Frontend & mobile product engineering (React/Next.js, Vue, Flutter)
 - AI-assisted UI/UX design workflows (Figma, Pencil)
+- Data analysis & analytics engineering (AWS Athena, Databricks, Pandas)
 - LLM agent orchestration & AI-assisted system design
 - Domain-Driven Design (DDD)
 - API-first, cloud-native systems
@@ -55,6 +56,10 @@ integrated against a SAP Business One service layer for real-time inventory and 
 **AI-assisted mobile & data tooling** — Flutter apps (including a Gemini Vision-powered
 prototype), plus Python/Jupyter data-analytics tooling and Supabase-backed services for
 invoicing and reporting automation.
+
+**Data analysis & analytics** — querying and transforming large datasets with AWS Athena over
+Parquet, building pipelines in Databricks, and doing exploratory/statistical analysis with
+Pandas and Jupyter notebooks to support reporting and business decisions.
 
 **Frontend & mobile at scale** — customer-facing storefronts, admin portals and checkout flows
 in React/Next.js and Vue, plus Flutter mobile apps, across the fintech, healthcare and mobile
@@ -93,6 +98,16 @@ static handoff mockups.
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Pencil%20(pen.dev)-8A2BE2?style=flat" />
 <img src="https://img.shields.io/badge/Design%20to%20Code-black?style=flat" />
+</p>
+
+**Data Analysis & Engineering**
+<p>
+<img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
 **Backend & Frameworks**
