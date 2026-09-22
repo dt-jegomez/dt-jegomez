@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Juan Eduardo Gómez 👋</h1>
-<h3 align="center">Tech Lead & Senior Full Stack Developer | Software Architect (AWS)</h3>
+<h3 align="center">Technology Leader | Software Architect (AWS) | Engineering, Product & AI Strategy</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tl-jegomez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -11,10 +11,11 @@
 
 ### 👨‍💻 About Me
 
-Tech Lead and Senior Full Stack Developer with a strong backend focus, experienced in leading
-high-performance teams and delivering end-to-end software — from architectural decisions and API
-design to cloud deployment and production operations. Comfortable owning a system end-to-end:
-database, API, infra, and the frontend that ships on top of it.
+Technology Leader with 10+ years of experience, evolved from IT infrastructure administration and
+software development into engineering leadership, cloud architecture, data analytics and AI
+initiatives for HealthTech and FinTech organizations. Experienced leading multidisciplinary
+teams, hiring and performance management, defining technology roadmaps, and translating business
+goals — working directly with CEOs and CTOs — into scalable technology solutions.
 
 Currently focused on **AI-driven platform engineering** — building systems where LLM agents make
 architectural decisions on top of certified, swappable infrastructure modules, not on generated
@@ -22,16 +23,29 @@ one-off code.
 
 ### 🚀 Currently Building
 
-**FinGenius** — an AI-operated platform that assembles, deploys, and runs fintech products
-(auth, wallet, payments, telecom top-ups) from a natural-language spec. Acting as Tech Lead across
-the full path: an LLM agent pipeline that turns customer intent into a deployable spec, a
+**FinGenius**, at **TechieGeeks** — an AI-operated platform that assembles, deploys, and runs
+fintech products (auth, wallet, payments, telecom top-ups) from a natural-language spec. Acting
+as Technology Leader across the full path: an LLM agent pipeline that turns customer intent into
+a deployable spec, a
 Provider Abstraction layer so certified modules stay swappable across payment/wallet/telecom
 vendors, multi-tenant AWS account provisioning per customer, and a Next.js Multi-Zone storefront
 generator with Stripe billing and Cognito auth wired end-to-end. *(Private client platform — not
 publicly linkable.)*
 
+### 👥 Leadership Impact
+
+- Led multidisciplinary teams of up to **10 professionals** — developers, a Scrum Master and a designer.
+- Conducted **50+ technical interviews**, participating in the hiring of **6 software engineers**.
+- Coordinated up to **4 simultaneous technology projects** in healthcare environments.
+- Contributed to healthcare platforms with coverage close to **2 million users** (108+ locations).
+- Contributed to a FinTech platform's growth to more than **25,000 active users**.
+- Led data & AI initiatives on processes impacting roughly **7 million healthcare affiliates**.
+- Owned performance reviews, mentoring and growth plans for engineering team members.
+- Partnered directly with CEOs/CTOs on technology roadmaps, product strategy and funding pitches.
+
 ### 🧭 Focus Areas
 
+- People leadership: hiring, performance management & mentoring engineering teams
 - Software architecture with an AWS-first approach (CDK, multi-account, serverless & containers)
 - Backend architecture & scalability
 - Frontend & mobile product engineering (React/Next.js, Vue, Flutter)
@@ -183,6 +197,16 @@ static handoff mockups.
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
+**Leadership & People Management**
+<p>
+<img src="https://img.shields.io/badge/Team%20Leadership-2E7D32?style=flat" />
+<img src="https://img.shields.io/badge/Hiring%20%26%20Recruitment-2E7D32?style=flat" />
+<img src="https://img.shields.io/badge/Performance%20Reviews-2E7D32?style=flat" />
+<img src="https://img.shields.io/badge/Mentoring-2E7D32?style=flat" />
+<img src="https://img.shields.io/badge/Technology%20Roadmaps-2E7D32?style=flat" />
+<img src="https://img.shields.io/badge/Stakeholder%20Management-2E7D32?style=flat" />
+</p>
+
 **Project Management**
 <p>
 <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white" />
@@ -207,4 +231,4 @@ Spanish (Native) · English (Professional Working Proficiency)
 
 ---
 
-<p align="center">⭐ Open to technical leadership roles and challenging AI-driven engineering projects.</p>
+<p align="center">⭐ Open to technology leadership and engineering management roles in AI-driven FinTech/HealthTech organizations.</p>
