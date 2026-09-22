@@ -33,6 +33,8 @@ publicly linkable.)*
 ### 🧭 Focus Areas
 
 - Backend architecture & scalability
+- Frontend & mobile product engineering (React/Next.js, Vue, Flutter)
+- AI-assisted UI/UX design workflows (Figma, Pencil)
 - LLM agent orchestration & AI-assisted system design
 - Domain-Driven Design (DDD)
 - API-first, cloud-native systems
@@ -54,6 +56,12 @@ integrated against a SAP Business One service layer for real-time inventory and 
 prototype), plus Python/Jupyter data-analytics tooling and Supabase-backed services for
 invoicing and reporting automation.
 
+**Frontend & mobile at scale** — customer-facing storefronts, admin portals and checkout flows
+in React/Next.js and Vue, plus Flutter mobile apps, across the fintech, healthcare and mobile
+projects above. Design work is done AI-assisted: Figma (design-to-code, design system sync) and
+Pencil (AI-generated, spec-driven app prototyping) feed directly into implementation instead of
+static handoff mockups.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -74,6 +82,17 @@ invoicing and reporting automation.
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+**AI-Assisted UI/UX Design**
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Pencil%20(pen.dev)-8A2BE2?style=flat" />
+<img src="https://img.shields.io/badge/Design%20to%20Code-black?style=flat" />
 </p>
 
 **Backend & Frameworks**
