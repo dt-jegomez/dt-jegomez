@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Juan Eduardo Gómez 👋</h1>
-<h3 align="center">Tech Lead & Senior Full Stack Developer</h3>
+<h3 align="center">Tech Lead & Senior Full Stack Developer | Software Architect (AWS)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tl-jegomez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -32,6 +32,7 @@ publicly linkable.)*
 
 ### 🧭 Focus Areas
 
+- Software architecture with an AWS-first approach (CDK, multi-account, serverless & containers)
 - Backend architecture & scalability
 - Frontend & mobile product engineering (React/Next.js, Vue, Flutter)
 - AI-assisted UI/UX design workflows (Figma, Pencil)
@@ -44,6 +45,11 @@ publicly linkable.)*
 ---
 
 ### 📌 Experience Highlights
+
+**Software architecture — AWS-first** — architecting systems as AWS CDK stacks: API Gateway +
+Lambda services, Fargate/ECS for longer-running workloads, CloudFront + S3 for static hosting,
+Cognito for auth, and Route53 for DNS — with per-customer multi-account provisioning and
+infrastructure-as-code (CDK/Terraform) driving every environment instead of manual console setup.
 
 **Fintech / digital wallet & top-up platform** — Tech Lead across a multi-service PHP/TypeScript
 stack: wallet + retail top-up APIs, a customer-facing storefront, an internal admin portal, and a
@@ -96,6 +102,19 @@ static handoff mockups.
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+**Software Architecture (AWS)**
+<p>
+<img src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white" />
+<img src="https://img.shields.io/badge/Fargate%2FECS-FF9900?style=flat&logo=amazonecs&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat&logo=amazoncloudfront&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Cognito-DD344C?style=flat&logo=amazoncognito&logoColor=white" />
+<img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Account%20Architecture-232F3E?style=flat" />
 </p>
 
 **AI-Assisted UI/UX Design**
