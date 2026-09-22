@@ -50,6 +50,7 @@ publicly linkable.)*
 
 ### 🧭 Focus Areas
 
+- QA & testing as a full-stack responsibility: unit/integration/e2e coverage, CI test gates
 - People leadership: hiring, performance management & mentoring engineering teams
 - Software architecture with an AWS-first approach (CDK, multi-account, serverless & containers)
 - Backend architecture & scalability
@@ -90,6 +91,11 @@ Pandas and Jupyter notebooks to support reporting and business decisions.
 that streams responses and hands off to a spec-generation agent, which drives automated code
 generation end to end), plus retrieval-augmented generation and vector-search patterns for
 grounding agent responses in domain data.
+
+**QA within a full-stack workflow** — treating testing as part of the build, not a separate
+handoff: unit/integration suites (Vitest), static analysis and lint/format gates (Biome, tsc) run
+in CI, plus manual and browser-automated end-to-end verification (Chrome DevTools) against real
+environments — because green tests alone don't catch every integration bug before it ships.
 
 **Frontend & mobile at scale** — customer-facing storefronts, admin portals and checkout flows
 in React/Next.js and Vue, plus Flutter mobile apps, across the fintech, healthcare and mobile
@@ -200,6 +206,16 @@ static handoff mockups.
 <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**QA & Testing**
+<p>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/E2E%20Testing-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/CI%20Test%20Gates-8B5CF6?style=flat-square" />
 </p>
 
 **Leadership & People Management**
